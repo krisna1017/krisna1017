@@ -5,17 +5,10 @@
 🚀 Focused on creating scalable and interactive applications
 
 ## 👾 Tech Stack:
-<p align="start">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,nodejs,mysql,git,github,figma,vscode" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,nodejs,mysql,git,github,figma,vscode)
 
 ## 📊 GitHub Stats
-<p align="start">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=krisna1017&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=krisna1017&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krisna1017&layout=compact&theme=tokyonight)
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisna1017&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=krisna1017&theme=tokyonight&hide_border=true&background=00000000"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats-tw.vercel.app/?user=krisna1017&theme=tokyonight&hide_border=true&background=00000000)
