@@ -10,11 +10,11 @@
 </p>
 
 ## 📊 GitHub Stats
-<!-- <p align="start">
+<p align="start">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=krisna1017&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisna1017&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=krisna1017&theme=tokyonight&hide_border=true&background=00000000"/>
