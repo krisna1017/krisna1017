@@ -16,6 +16,5 @@
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krisna1017&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-tw.vercel.app/?user=krisna1017&theme=tokyonight&hide_border=true&background=00000000&v=1" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=krisna1017&theme=dark)](https://git.io/streak-stats)
 </p>
